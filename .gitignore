@@ -1,0 +1,35 @@
+# STM32CubeIDE / Eclipse
+.settings/
+
+# Build folders
+Debug/
+Release/
+CM4/Debug/
+CM4/Release/
+CM7/Debug/
+CM7/Release/
+
+# Temporary/generated files
+*.launch
+*.tmp
+*.log
+*.bak
+*~
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.cyclo
+*.d
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
